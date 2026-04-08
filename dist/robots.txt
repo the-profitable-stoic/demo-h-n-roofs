@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-h-n-roofs.dream-surge.com/sitemap-index.xml

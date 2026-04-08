@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "H&N Roofs",
+    "phone": "+13237940700",
+    "category": "roofer",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Los Angeles' Roofing Experts",
+      "heroSubline": "H&N Roofs delivers reliable roofing solutions across Southern California. Get a free quote today!",
+      "aboutTitle": "Decades of Roofing Excellence in Los Angeles",
+      "aboutText": [
+        "H&N Roofs started with a simple goal: to provide Los Angeles homeowners with roofing they could depend on. Founded by two brothers after years working under other roofers, we decided to build a company that puts quality and integrity first. We understand the unique challenges of roofing in Southern California, from earthquake preparedness to weathering intense sun and Santa Ana winds.",
+        "Our approach is straightforward: honest assessments, clear communication, and meticulous craftsmanship. We don't cut corners. We use premium materials designed to withstand the harsh LA climate, and our team is trained to handle everything from historic Spanish Colonial Revivals to modern hillside homes. We treat every project, big or small, with the same level of dedication.",
+        "We're proud to be a part of the Los Angeles community. We source materials locally whenever possible, and we actively support local organizations. When you choose H&N Roofs, you're not just getting a new roof; you're investing in a local business that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand LA's unique roofing needs, from seismic considerations to sun exposure."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest-quality materials designed to last in the Southern California climate."
+        },
+        {
+          "title": "Skilled Craftsmanship",
+          "description": "Our experienced team delivers meticulous workmanship on every project."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, upfront estimates with no hidden fees."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Estimate",
+      "ctaSubline": "Protect your home with a reliable roof. Contact H&N Roofs today."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof replacement services for homes and businesses throughout Los Angeles.",
+        "description": "Is your roof showing its age? Are you experiencing leaks or other issues? A complete roof replacement from H&N Roofs will provide lasting protection for your home. We handle every step of the process, from removing the old roof to installing a brand new, high-quality roofing system. We offer a wide variety of roofing materials, including asphalt shingles, tile, metal, and more, to match your home's style and budget. \n\nWe start with a thorough inspection of your existing roof to assess its condition and identify any underlying problems. We then provide you with a detailed estimate outlining the scope of work and the materials to be used. Our team takes care to protect your property during the replacement process, and we always clean up thoroughly after the job is complete. With H&N Roofs, you can be confident that your new roof will provide years of reliable performance, even in the face of intense sun, Santa Ana winds, and seismic activity. We are experienced in the unique challenges of replacing roofs on older homes found throughout Los Angeles, from bungalows to Spanish-style houses.",
+        "process": [
+          "Step 1: Thorough roof inspection and assessment",
+          "Step 2: Material selection and detailed estimate",
+          "Step 3: Old roof removal and disposal",
+          "Step 4: New roof installation and final inspection"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved curb appeal",
+          "Enhanced protection from the elements",
+          "Long-lasting performance"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as the type of materials being used. Most replacements take between 3-7 days."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of roofing materials, including asphalt shingles, tile, metal, and more. Our team can help you choose the best option for your home and budget."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer financing options to help make roof replacement more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Expert roof repair services to fix leaks, damage, and other roofing problems.",
+        "description": "Don't let a small leak turn into a major problem. H&N Roofs provides prompt and reliable roof repair services throughout Los Angeles. Whether you have a few missing shingles, a damaged flashing, or a major leak, we can quickly diagnose the problem and provide an effective solution. We understand the importance of addressing roof repairs quickly to prevent further damage to your home. \n\nOur experienced technicians are skilled in repairing all types of roofing systems, including asphalt shingles, tile, metal, and flat roofs. We use high-quality materials to ensure that our repairs are durable and long-lasting. We also offer emergency roof repair services for urgent situations. From patching up a leaky bungalow roof in Pasadena to fixing wind damage after Santa Anas in Santa Clarita, we've seen it all. We'll give you an honest assessment and a fair price.",
+        "process": [
+          "Step 1: Detailed roof inspection to identify the source of the problem",
+          "Step 2: Provide a clear and concise repair estimate",
+          "Step 3: Perform the necessary repairs using high-quality materials",
+          "Step 4: Final inspection to ensure the repair is effective"
+        ],
+        "benefits": [
+          "Prevents further damage to your home",
+          "Extends the life of your roof",
+          "Saves money on costly replacements",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Signs that you may need a roof repair include leaks, missing shingles, damaged flashing, and water stains on your ceiling."
+          },
+          {
+            "question": "How much does a roof repair cost?",
+            "answer": "The cost of a roof repair depends on the extent of the damage and the type of materials needed. We provide free estimates for all roof repairs."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer emergency roof repair services for urgent situations. Contact us anytime, day or night."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems and ensure the longevity of your roof.",
+        "description": "Protect your investment with a professional roof inspection from H&N Roofs. Our comprehensive roof inspections can help you identify potential problems before they become major issues. We thoroughly inspect your roof for signs of damage, wear and tear, and other issues that could compromise its integrity. We understand the specific challenges that Los Angeles roofs face, from intense UV exposure to the risk of seismic activity. \n\nOur experienced inspectors will provide you with a detailed report outlining the condition of your roof and any recommended repairs or maintenance. A roof inspection is especially important before buying or selling a home. We'll check for common problems in LA housing stock, like cracked tiles on Spanish roofs or dry rot in older wood shingles. Regular inspections can also extend the life of your roof and save you money on costly replacements down the road.",
+        "process": [
+          "Step 1: Schedule a convenient inspection time",
+          "Step 2: Thorough visual inspection of the entire roof",
+          "Step 3: Detailed report outlining the condition of the roof",
+          "Step 4: Recommendations for repairs or maintenance"
+        ],
+        "benefits": [
+          "Identifies potential problems early",
+          "Extends the life of your roof",
+          "Saves money on costly repairs",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or after any major weather event."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "Our roof inspections include a thorough visual inspection of the entire roof, including the shingles, flashing, gutters, and downspouts."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of the roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Gutter installation, repair, and cleaning to protect your home from water damage.",
+        "description": "Properly functioning gutters are essential for protecting your home from water damage. H&N Roofs provides complete gutter services, including installation, repair, and cleaning. We understand the importance of keeping your gutters clean and free of debris to ensure that they can effectively channel water away from your home's foundation. We know that Los Angeles' infrequent but intense rainfalls can quickly overwhelm clogged gutters, leading to costly damage. \n\nWe offer a variety of gutter styles and materials to match your home's architecture and budget. Our experienced technicians can quickly and efficiently install new gutters, repair damaged gutters, or clean existing gutters. We can also recommend gutter guards to help prevent clogs and reduce the need for frequent cleaning. From the Craftsman homes of Pasadena to the modern builds of Irvine, we'll make sure your gutters are doing their job.",
+        "process": [
+          "Step 1: Gutter inspection and assessment",
+          "Step 2: Gutter cleaning, repair, or installation",
+          "Step 3: Downspout inspection and cleaning",
+          "Step 4: Final inspection to ensure proper function"
+        ],
+        "benefits": [
+          "Protects your home from water damage",
+          "Prevents foundation problems",
+          "Extends the life of your roof",
+          "Enhances curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, or more often if you live in an area with a lot of trees."
+          },
+          {
+            "question": "What are the benefits of gutter guards?",
+            "answer": "Gutter guards help prevent clogs and reduce the need for frequent cleaning."
+          },
+          {
+            "question": "How much does gutter service cost?",
+            "answer": "The cost of gutter service depends on the type of service and the size of your home. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-services",
+        "name": "Skylight Services",
+        "shortDescription": "Skylight installation and repair services to bring natural light into your home.",
+        "description": "Bring the beauty of natural light into your home with skylight services from H&N Roofs. We offer skylight installation and repair services to enhance the beauty and functionality of your home. We understand the importance of proper skylight installation to prevent leaks and ensure energy efficiency. In Los Angeles, skylights can be a great way to brighten up a room, but they also need to be properly sealed to withstand the intense sun and occasional rain. \n\nOur experienced technicians can help you choose the right skylight for your home and install it properly. We also offer skylight repair services to fix leaks, cracks, and other issues. Whether you're looking to add a new skylight to your Silver Lake bungalow or repair an existing one in your Hollywood Hills home, we've got you covered.",
+        "process": [
+          "Step 1: Skylight selection and design",
+          "Step 2: Skylight installation or repair",
+          "Step 3: Proper sealing and weatherproofing",
+          "Step 4: Final inspection to ensure proper function"
+        ],
+        "benefits": [
+          "Brings natural light into your home",
+          "Enhances the beauty of your home",
+          "Increases energy efficiency",
+          "Adds value to your home"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of skylights?",
+            "answer": "Skylights bring natural light into your home, enhance its beauty, increase energy efficiency, and add value."
+          },
+          {
+            "question": "How much does skylight service cost?",
+            "answer": "The cost of skylight service depends on the type of service and the size of your skylight. Contact us for a free quote."
+          },
+          {
+            "question": "Are skylights prone to leaking?",
+            "answer": "When properly installed and maintained, skylights are not prone to leaking. We take extra care to ensure that our skylights are properly sealed and weatherproofed."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-roofing",
+        "name": "Emergency Roofing Services",
+        "shortDescription": "24/7 emergency roofing services for urgent repairs and storm damage.",
+        "description": "When disaster strikes, H&N Roofs is here to help with our 24/7 emergency roofing services. We understand that roofing emergencies can happen at any time, and we're ready to respond quickly to protect your home from further damage. Whether it's a fallen tree limb, a severe storm, or a sudden leak, we'll be there to provide immediate assistance. In a city like Los Angeles, with its earthquake risks and occasional flash floods, knowing you have a reliable emergency roofer is crucial. \n\nOur experienced technicians are equipped to handle any type of roofing emergency, from patching holes to tarping damaged areas. We'll assess the situation, provide a temporary solution to prevent further damage, and then develop a plan for permanent repairs. Don't wait until it's too late – contact H&N Roofs for fast and reliable emergency roofing services.",
+        "process": [
+          "Step 1: Immediate response to your emergency call",
+          "Step 2: Rapid assessment of the damage",
+          "Step 3: Temporary repairs to prevent further damage",
+          "Step 4: Development of a plan for permanent repairs"
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response time",
+          "Prevents further damage",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a roofing emergency?",
+            "answer": "A roofing emergency is any situation that poses an immediate threat to your home, such as a major leak, a fallen tree limb, or severe storm damage."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within a few hours."
+          },
+          {
+            "question": "What is the cost of emergency roofing services?",
+            "answer": "The cost of emergency roofing services depends on the extent of the damage and the type of repairs needed. We provide upfront pricing and will work with your insurance company to minimize your out-of-pocket expenses."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Full-service commercial roofing solutions for businesses in Los Angeles.",
+        "description": "H&N Roofs provides comprehensive commercial roofing solutions for businesses throughout Los Angeles. We understand the unique needs of commercial properties and offer a wide range of services to keep your roof in top condition. From office buildings to retail stores to industrial facilities, we have the expertise and experience to handle any commercial roofing project. We know that a damaged roof can disrupt your business operations and lead to costly repairs. \n\nWe offer roof repair, replacement, and maintenance services, as well as new roof construction. Our experienced team is skilled in working with a variety of commercial roofing systems, including flat roofs, metal roofs, and single-ply membranes. We use high-quality materials and proven techniques to ensure that your commercial roof provides lasting protection for your business. We handle everything from the initial inspection to the final cleanup, minimizing disruption to your business.",
+        "process": [
+          "Step 1: Thorough roof inspection and assessment",
+          "Step 2: Material selection and detailed estimate",
+          "Step 3: Roof repairs, replacement, or new construction",
+          "Step 4: Ongoing maintenance and support"
+        ],
+        "benefits": [
+          "Minimizes business disruptions",
+          "Protects your investment",
+          "Extends the life of your roof",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you work with?",
+            "answer": "We work with a variety of commercial roofing systems, including flat roofs, metal roofs, and single-ply membranes."
+          },
+          {
+            "question": "Do you offer roof maintenance programs?",
+            "answer": "Yes, we offer roof maintenance programs to help keep your commercial roof in top condition."
+          },
+          {
+            "question": "How much does commercial roofing service cost?",
+            "answer": "The cost of commercial roofing service depends on the type of service and the size of your building. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "H&N Roofs is proud to offer comprehensive roofing services to the residents and businesses of Long Beach, California. Known for its beautiful coastline and diverse architecture, Long Beach presents unique roofing challenges and opportunities. We understand the specific needs of Long Beach homeowners, especially those with the iconic 1920s-40s Craftsman homes that characterize many neighborhoods.\n\nOur team is experienced in working with various roofing materials and styles, ensuring that your roof not only protects your property but also complements the architectural heritage of Long Beach. We are committed to providing high-quality workmanship and exceptional customer service to the Long Beach community. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business.",
+        "localContext": "Long Beach features a mix of historic Craftsman homes and modern developments, requiring a diverse range of roofing expertise to maintain its unique character.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "H&N Roofs is dedicated to providing top-notch roofing services in Pasadena, California. A city renowned for its rich history and stunning architecture, Pasadena boasts a significant number of 1910s-30s Craftsman bungalows, demanding specialized roofing expertise. We recognize the importance of preserving the architectural integrity of these homes while ensuring their roofs are durable and reliable.\n\nWe offer a wide range of roofing solutions tailored to the specific needs of Pasadena residents, from repairs and maintenance to complete roof replacements. Our skilled team is committed to delivering exceptional quality and customer satisfaction. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business.",
+        "localContext": "Pasadena's architectural landscape is defined by its charming Craftsman bungalows, necessitating specialized roofing services that respect the historical significance of these homes.",
+        "nearbyAreas": [
+          "South Pasadena",
+          "San Marino",
+          "Altadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "H&N Roofs is pleased to serve the planned community of Irvine, California, with reliable and efficient roofing services. Irvine's master-planned communities, dating from the 1970s to the present, require roofing solutions that are both aesthetically pleasing and structurally sound. We are experienced in working with various roofing materials commonly found in Irvine homes, ensuring that your roof provides optimal protection and enhances the value of your property.\n\nWe offer a comprehensive range of roofing services, including inspections, repairs, and replacements. Our team is dedicated to providing exceptional customer service and quality workmanship. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business.",
+        "localContext": "Irvine's master-planned communities feature a variety of home styles, requiring roofing services that cater to the specific needs of each neighborhood.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "H&N Roofs is proud to offer expert roofing services to the growing community of Santa Clarita, California. Known for its newer master-planned communities built from the 1990s to the 2020s, Santa Clarita presents a unique set of roofing needs. We are familiar with the common roofing materials and styles found in these communities, ensuring that your roof is both durable and aesthetically pleasing.\n\nWe provide a wide range of roofing services, including inspections, repairs, and replacements. Our team is committed to delivering exceptional quality and customer satisfaction. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business. We stay up-to-date with the latest building codes and regulations in Santa Clarita to ensure that your roofing project is completed safely and efficiently.",
+        "localContext": "Santa Clarita's newer master-planned communities require roofing services that meet modern building standards and aesthetic preferences.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "H&N Roofs is dedicated to providing reliable and affordable roofing services to the residents of Torrance, California. With its predominantly 1950s-60s post-war homes, Torrance presents unique roofing challenges and opportunities. We understand the specific needs of Torrance homeowners, and we are experienced in working with the roofing materials commonly found in these homes.\n\nWe offer a comprehensive range of roofing services, including inspections, repairs, and replacements. Our team is committed to delivering exceptional customer service and quality workmanship. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business. We pride ourselves on our attention to detail and our commitment to exceeding our customers' expectations.",
+        "localContext": "Torrance's primarily post-war homes necessitate roofing services that address the specific needs and challenges of older construction.",
+        "nearbyAreas": [
+          "Gardena",
+          "Redondo Beach",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "H&N Roofs proudly serves the city of Glendale, CA, providing top-quality roofing services to homeowners and businesses alike. Glendale boasts a diverse range of architectural styles, from historic homes to modern constructions, requiring a versatile approach to roofing solutions. We are well-versed in handling various roofing types and materials, ensuring that your roof is both durable and aesthetically pleasing.\n\nOur services include roof inspections, repairs, replacements, and maintenance. We understand the importance of a reliable roof in protecting your property from the elements, and we are committed to delivering exceptional workmanship and customer satisfaction. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business.",
+        "localContext": "Glendale's diverse architecture requires a roofing company with expertise in a wide range of styles and materials.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Canada Flintridge"
+        ]
+      },
+      {
+        "city": "Burbank",
+        "slug": "burbank-ca",
+        "state": "CA",
+        "content": "H&N Roofs is committed to providing exceptional roofing services to the residents and businesses of Burbank, California. Known as the \"Media Capital of the World,\" Burbank features a mix of residential and commercial properties, each with unique roofing needs. We are experienced in working with various roofing systems, ensuring that your property is well-protected.\n\nWe offer a comprehensive range of roofing services, including inspections, repairs, and replacements. Our team is dedicated to providing exceptional customer service and quality workmanship. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business.",
+        "localContext": "Burbank's mix of residential and commercial properties requires a roofing company that can handle a variety of roofing needs.",
+        "nearbyAreas": [
+          "Glendale",
+          "North Hollywood",
+          "Studio City"
+        ]
+      },
+      {
+        "city": "Pomona",
+        "slug": "pomona-ca",
+        "state": "CA",
+        "content": "H&N Roofs is proud to serve the community of Pomona, California, with reliable and affordable roofing solutions. Pomona's mix of older and newer homes requires a roofing company with experience in a variety of styles and materials. We understand the unique challenges of roofing in Pomona, and we are committed to providing top-quality workmanship and customer service.\n\nWe offer a comprehensive range of roofing services, including inspections, repairs, and replacements. Our team is dedicated to providing exceptional customer service and quality workmanship. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business.",
+        "localContext": "Pomona's diverse housing stock requires a roofing company with expertise in both older and newer construction techniques.",
+        "nearbyAreas": [
+          "Claremont",
+          "Diamond Bar",
+          "West Covina"
+        ]
+      },
+      {
+        "city": "West Covina",
+        "slug": "west-covina-ca",
+        "state": "CA",
+        "content": "H&N Roofs is pleased to offer its expert roofing services to the residents and businesses of West Covina, California. West Covina's mix of residential neighborhoods and commercial areas requires a versatile roofing company capable of handling a wide range of projects. We are experienced in working with various roofing materials and styles, ensuring that your roof is both durable and aesthetically pleasing.\n\nWe provide a comprehensive range of roofing services, including inspections, repairs, and replacements. Our team is committed to delivering exceptional quality and customer satisfaction. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business.",
+        "localContext": "West Covina's mix of residential and commercial properties requires a roofing company with the ability to handle a diverse range of roofing needs.",
+        "nearbyAreas": [
+          "Covina",
+          "Baldwin Park",
+          "La Puente"
+        ]
+      },
+      {
+        "city": "Downey",
+        "slug": "downey-ca",
+        "state": "CA",
+        "content": "H&N Roofs is dedicated to providing reliable and affordable roofing services to the residents of Downey, California. Downey's mix of mid-century homes and newer developments requires a roofing company with experience in a variety of styles and materials. We understand the specific needs of Downey homeowners, and we are committed to providing top-quality workmanship and customer service.\n\nWe offer a comprehensive range of roofing services, including inspections, repairs, and replacements. Our team is dedicated to providing exceptional customer service and quality workmanship. We understand the warm, dry climate and the effects it can have on roofing materials, and we can help you choose the best solution for your home or business.",
+        "localContext": "Downey's mix of mid-century homes and newer developments requires a roofing company that can handle a variety of roofing styles.",
+        "nearbyAreas": [
+          "Norwalk",
+          "Bellflower",
+          "South Gate"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "H&N Roofs was fantastic! We had a leak in our roof after the recent rains, and they came out quickly to assess the damage. The repair was done efficiently and professionally, and the price was very reasonable. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "The team from H&N Roofs did a great job cleaning out our gutters. They were completely clogged with leaves and debris, and they cleared everything out quickly and efficiently. Our gutters are now flowing freely!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We recently had H&N Roofs replace our entire roof, and we couldn't be happier with the results. The team was professional, courteous, and efficient. They did a fantastic job, and our new roof looks amazing! They even helped us choose the right shingles to match our 1920s Craftsman home in Pasadena.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "I needed a reliable roof inspection before buying a house in Long Beach. H&N Roofs was thorough and professional. The inspector identified a few potential issues that I was able to address with the seller before closing. Worth every penny!",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Skylight Repair",
+        "text": "We had a leaky skylight in our kitchen, and H&N Roofs came out and fixed it quickly and efficiently. The technician was knowledgeable and professional, and the price was very fair. No more leaks!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Emergency Roofing",
+        "text": "H&N Roofs saved the day! A tree branch fell on our roof during a storm, and they were here within hours to tarp the damaged area. They were professional, courteous, and did an excellent job. Highly recommend their emergency services!",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "H&N Roofs: Los Angeles Roofing Contractor",
+        "description": "Reliable roofing services in Los Angeles. Roof repair, replacement, inspections, and more. Free estimates!"
+      },
+      "about": {
+        "title": "About H&N Roofs | Los Angeles Roofing Experts",
+        "description": "Learn about H&N Roofs, a trusted roofing contractor serving Los Angeles. Quality workmanship and local expertise."
+      },
+      "services": {
+        "title": "Roofing Services | H&N Roofs Los Angeles",
+        "description": "Comprehensive roofing services in Los Angeles. Repair, replacement, inspections, gutters, skylights, and more."
+      },
+      "contact": {
+        "title": "Contact H&N Roofs | Los Angeles Roofing",
+        "description": "Contact H&N Roofs for all your roofing needs in Los Angeles. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "H&N Roofs Reviews | Los Angeles Roofing Contractor",
+        "description": "Read reviews from satisfied customers of H&N Roofs in Los Angeles. See why we're a trusted roofing provider."
+      },
+      "service-areas": {
+        "title": "H&N Roofs Service Areas | Los Angeles Roofing",
+        "description": "H&N Roofs provides roofing services throughout the Los Angeles area. See our service locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "skylight-services": "/images/service-skylight-services.webp",
+      "emergency-roofing": "/images/service-emergency-roofing.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-services": {
+        "src": "/images/service-skylight-services.webp",
+        "srcset": "/images/service-skylight-services-400w.webp 400w, /images/service-skylight-services-800w.webp 800w, /images/service-skylight-services-1200w.webp 1200w, /images/service-skylight-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-roofing": {
+        "src": "/images/service-emergency-roofing.webp",
+        "srcset": "/images/service-emergency-roofing-400w.webp 400w, /images/service-emergency-roofing-800w.webp 800w, /images/service-emergency-roofing-1200w.webp 1200w, /images/service-emergency-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
